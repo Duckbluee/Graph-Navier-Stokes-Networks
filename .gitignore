@@ -1,0 +1,9 @@
+# default
+__pycache__
+*/__pycache__
+.DS_Store
+.vscode
+
+# dataset
+data/*
+src/splits/*
